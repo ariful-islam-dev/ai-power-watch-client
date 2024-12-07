@@ -1,0 +1,94 @@
+[
+  {
+    "_id": "6743653ad129ea86b2c9537e",
+    "name": " JeeJTek",
+    "title": "Smart Watches for Men - Answer/Make Calls/AI Control, 1.83\" for Android Phones iPhone Samsung Compatible Fitness Tracker Blood Oxygen Heart Rate Sleep Monitor Smartwatch (Rose Gold+Wine Red, 1.83\")",
+    "brand": " JeeJTek",
+    "categories": ["Man"],
+    "price": 29.99,
+    "stock": 3,
+    "description": "Improved connectivity features. Not only can you answer calls and make calls, but you can also respond quickly on Android. Employ Al voice assistant, for inquiries or directives to the watch. All-day sleep monitoring. Monitoring is available during naps or night shifts. More Flexible music player. The watch can not only control music player on the phone, but allow music to be played on the watch. More entertaining. Enjoy relaxation with small games and remote photography features.",
+    "images": [
+      "https://res.cloudinary.com/dhm9tqeuy/image/upload/v1732470072/ai-power-watch/eibmuuu9qkmub583rtld.png",
+      "https://res.cloudinary.com/dhm9tqeuy/image/upload/v1732470073/ai-power-watch/yrgssfaetdwy84ju2fhw.png"
+    ],
+    "averageRating": 3.5,
+    "reviews": [],
+    "createdAt": {
+      "$date": "2024-11-24T17:41:14.430Z"
+    },
+    "updatedAt": {
+      "$date": "2024-11-28T16:33:35.331Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": "674366d2d129ea86b2c95381",
+    "name": " OLEVS",
+    "title": "OLEVS Watch for Men Diamond Business Dress Analog Quartz Stainless Steel Waterproof Luminous Date Two Tone Luxury Casual Wrist Watch ",
+    "brand": " OLEVS",
+    "categories": ["Man", "Woman"],
+    "price": 39.77,
+    "stock": 4,
+    "description": "Olevs watch for men diamond business dress analog quartz stainless steel waterproof luminous date two tone luxury casual wrist watch",
+    "images": [
+      "https://res.cloudinary.com/dhm9tqeuy/image/upload/v1732470477/ai-power-watch/q5uif8ffuge9gipsfixz.png",
+      "https://res.cloudinary.com/dhm9tqeuy/image/upload/v1732470482/ai-power-watch/fp1qerbemm4ve4yhczjv.png"
+    ],
+    "averageRating": 0,
+    "reviews": [],
+    "createdAt": {
+      "$date": "2024-11-24T17:48:02.862Z"
+    },
+    "updatedAt": {
+      "$date": "2024-11-28T14:21:48.905Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": "67436966f95131c85a90b315",
+    "name": "Relic by Fossil",
+    "title": "Relic by Fossil Men's Rylan Three-Hand Black Stainless Steel Bracelet Watch (Model: ZR77271)",
+    "brand": "Relic by Fossil",
+    "categories": ["Man"],
+    "price": 55.54,
+    "stock": 4,
+    "description": "Relic by Fossil is an American watch and lifestyle brand creatively delivering accessible, elevated casual designs. With each of our signature watches and accessories you will see the perfect mix of classic style with modern updates optimized for your true everyday lifestyle.",
+    "images": [
+      "https://res.cloudinary.com/dhm9tqeuy/image/upload/v1732471139/ai-power-watch/jt0ebmm1ehgkvx0igjde.png",
+      "https://res.cloudinary.com/dhm9tqeuy/image/upload/v1732471141/ai-power-watch/x37xuocnos6hp4rdysiq.png"
+    ],
+    "averageRating": 0,
+    "reviews": [],
+    "createdAt": {
+      "$date": "2024-11-24T17:59:02.302Z"
+    },
+    "updatedAt": {
+      "$date": "2024-11-24T18:00:10.518Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": "67436a6ef95131c85a90b31b",
+    "name": "Fossil",
+    "title": "Fossil Dean Men's Dress Watch with Chronograph Display and Stainless Steel Bracelet Band",
+    "brand": "Fossil",
+    "categories": ["Man"],
+    "price": 90,
+    "stock": 3,
+    "description": "Each of our Fossil mens' watches are built to last and embody the bold, creative spirit of their wearers. Through quality craftsmanship, premium features and a keen attention to detail, our watches are made for the everyday-wearer, the adventurer and everyone in between.",
+    "images": [
+      "https://res.cloudinary.com/dhm9tqeuy/image/upload/v1732471403/ai-power-watch/hdwskqdp4zdm8mkiit2i.png",
+      "https://res.cloudinary.com/dhm9tqeuy/image/upload/v1732471405/ai-power-watch/fb9wj3u34wnktdbreq8u.png"
+    ],
+    "averageRating": 0,
+    "reviews": [],
+    "createdAt": {
+      "$date": "2024-11-24T18:03:26.763Z"
+    },
+    "updatedAt": {
+      "$date": "2024-11-24T18:03:26.763Z"
+    },
+    "__v": 0
+  }
+]
